@@ -5,3 +5,9 @@ export default function Dashboard() {
     <div>Dashboard</div>
   )
 }
+
+export default function Dashboard() {
+  return (
+    <div>Dashboard</div>
+  )
+}
